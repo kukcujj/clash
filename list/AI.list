@@ -4,6 +4,7 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
+DOMAIN-SUFFIX,gemini.google.com,🌍 国外
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
@@ -46,5 +47,6 @@ DOMAIN-SUFFIX,pttweb.cc
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,run.freecloud.ltd
+
 
 
