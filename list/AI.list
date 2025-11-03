@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,bard.google.com
-#DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
@@ -47,4 +46,5 @@ DOMAIN-SUFFIX,pttweb.cc
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,run.freecloud.ltd
+
 
